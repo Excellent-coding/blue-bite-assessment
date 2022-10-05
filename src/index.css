@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.mx-1 {
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+.mt-10 {
+    margin-top: 40px;
+}
+
+.p-4 {
+    padding: 16px;
+}
+
+.w-8 {
+    width: 32px;
+}
+
+.h-8 {
+    height: 32px;
+}
+
+.w-16 {
+    width: 64px;
+}
+
+.h-16 {
+    height: 64px;
+}
+
+.text-2xl {
+    font-size: 32px;
+}
+
+.text-lg {
+    font-size: 24px;
+}
+
+.text-sm {
+    font-size: 14px;
+}
+
+.text-xs {
+    font-size: 12px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-danger {
+    color: red;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.right-4 {
+    right: 16px;
+}
+
+.bottom-4 {
+    bottom: 16px
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.h-fill {
+    height: -webkit-fill-available;
+}
